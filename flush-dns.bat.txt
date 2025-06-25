@@ -1,0 +1,7 @@
+@echo off
+echo Flushing DNS...
+ipconfig /flushdns
+echo Resetting Winsock...
+netsh winsock reset
+echo Done.
+pause
