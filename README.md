@@ -35,7 +35,7 @@ These scripts simulate tasks that a Technical/Desktop Support Engineer would per
 ## 🧠 About Me
 I'm Pragna, an aspiring **Technical Support Engineer** actively learning Windows OS, troubleshooting tools, ServiceNow ticketing, and scripting to automate day-to-day IT support tasks.
 
-📫 **Connect with me** on [LinkedIn](https://www.linkedin.com/in/your-profile-link)  
+📫 **Connect with me** on [LinkedIn](https://www.linkedin.com/in/peddakadapa-pravallika-abb506287/).
 💼 **Resume & Projects:** Coming soon!
 
 ---
